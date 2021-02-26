@@ -1,0 +1,9 @@
+{
+  "name": "csci3916_hw2",
+  "version": "0.0.0",
+  "description": "CSCI3916_HW2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
